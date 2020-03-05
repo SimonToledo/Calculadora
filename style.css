@@ -26,3 +26,7 @@
 	border-radius: 25px;
 	overflow-y: scroll;
 }
+table {
+    border-collapse: separate;
+    border-spacing: 2px;
+}
